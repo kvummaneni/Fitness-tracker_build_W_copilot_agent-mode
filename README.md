@@ -1,3 +1,7 @@
+FOLLOW ALONG THIS TRAININGS.
+
+https://learn.microsoft.com/en-us/training/modules/github-copilot-agent-mode/
+
 # Octofit Tracker
 
 Octofit Tracker is a fitness tracking application designed for Merington High School, inspired by the Monafit Tracker app. It allows users to log activities, manage teams, view leaderboards, and track workouts.
