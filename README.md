@@ -1,6 +1,11 @@
-FOLLOW ALONG THIS TRAININGS.
+🚀 Exploring AI-Powered Development with GitHub Copilot 🚀
+
+Hi everyone! 👋
+
+I recently embarked on an exciting journey to build a fitness tracker app called Octofit Tracker for Merington High School. Inspired by the Monafit Tracker, this project was my first attempt at creating a full-stack application using Django, React, MongoDB, and Bootstrap—all with no prior experience in JavaScript, CSS, or coding!
 
 https://learn.microsoft.com/en-us/training/modules/github-copilot-agent-mode/
+
 
 # Octofit Tracker
 
